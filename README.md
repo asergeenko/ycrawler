@@ -28,4 +28,4 @@
 *ycrawler.py*
 
 ## Требования
-Python >= 3.6
+Python >= 3.8
